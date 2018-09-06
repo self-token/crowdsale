@@ -1,12 +1,16 @@
 {
-  "main.css": "static/css/main.79da7799.css",
-  "main.css.map": "static/css/main.79da7799.css.map",
-  "main.js": "static/js/main.b6717630.js",
-  "main.js.map": "static/js/main.b6717630.js.map",
+  "main.css": "static/css/main.432cb545.css",
+  "main.css.map": "static/css/main.432cb545.css.map",
+  "main.js": "static/js/main.2f942bcf.js",
+  "main.js.map": "static/js/main.2f942bcf.js.map",
   "static/media/bg_dot.png": "static/media/bg_dot.6b09357a.png",
   "static/media/bg_line.png": "static/media/bg_line.55dab81b.png",
   "static/media/contract-qrcode.png": "static/media/contract-qrcode.9d878f38.png",
   "static/media/cover-selftoken_logo.png": "static/media/cover-selftoken_logo.597469f7.png",
+  "static/media/download_metamask.png": "static/media/download_metamask.e16c8640.png",
+  "static/media/metamask_login.png": "static/media/metamask_login.c255b6bd.png",
+  "static/media/metamask_main_network.png": "static/media/metamask_main_network.5ae934a2.png",
   "static/media/pioneer.png": "static/media/pioneer.c3c3c5e6.png",
-  "static/media/selfcoin.png": "static/media/selfcoin.0daf0512.png"
+  "static/media/selfcoin.png": "static/media/selfcoin.0daf0512.png",
+  "static/media/trust_wallet.png": "static/media/trust_wallet.3539b5ee.png"
 }
